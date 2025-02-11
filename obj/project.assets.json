@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\izabelly\\GerenciadorTarefas\\GerenciadorTarefas\\GerenciadorTarefas.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\izabelly\\GerenciadorTarefas\\GerenciadorTarefas.csproj",
       "projectName": "GerenciadorTarefas",
-      "projectPath": "C:\\Users\\Aluno\\Documents\\izabelly\\GerenciadorTarefas\\GerenciadorTarefas\\GerenciadorTarefas.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Documents\\izabelly\\GerenciadorTarefas\\GerenciadorTarefas.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Documents\\izabelly\\GerenciadorTarefas\\GerenciadorTarefas\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Documents\\izabelly\\GerenciadorTarefas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
