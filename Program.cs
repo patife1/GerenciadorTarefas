@@ -1,13 +1,9 @@
-﻿using System;
+﻿using Layout;
 
-namespace Gerenciador
+Formatacao.Cor("Bom dia!", ConsoleColor.Blue);
 
-{
-   class Program
-    {
-        static void Main(string[] args)
-     {
-        Console.WriteLine("AAAAAAAAAA");
-     }
-    }
-}
+Formatacao.Cor("Boa tarde!", ConsoleColor.Green);
+
+Formatacao.Cor("Boa noite!", ConsoleColor.Red);
+
+Formatacao.ImprimirCabecalho("GERENCIADOR DE TAREFAS");
