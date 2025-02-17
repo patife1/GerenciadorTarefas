@@ -1,24 +1,21 @@
 namespace Layout
 {
-    class Formatacao
+    public class Formatacao
     {
-       
-        public static void ImprimirCabecalho(string texto)
-
+        
+        public static void ImprimirCabecalho()
         {
-
-              Console.WriteLine("╔════════════════════════════════════╗");
+            Console.WriteLine("╔════════════════════════════════════╗");
             Console.WriteLine("║       GERENCIADOR DE TAREFAS       ║");
             Console.WriteLine("╚════════════════════════════════════╝\n");
-            Console.ResetColor();
         }
 
-        public static void Cor(string texto, ConsoleColor cor)
+  
+        public static void Cor(string mensagem, ConsoleColor cor)
         {
             Console.ForegroundColor = cor;
-            Console.WriteLine(texto);
-            Console.ResetColor();
+            Console.WriteLine(mensagem);
+            Console.ResetColor();  
         }
-
     }
 }
